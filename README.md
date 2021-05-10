@@ -1,6 +1,8 @@
-Hi, call me Ali.
+# Software Engineer
 
-I work on mobile apps for iOS and Android. Let's connect.
+Hi. I'm Ali.
+
+I work on mobile app solutions on iOS and Android. Let's connect [twitter](https://twitter.com/aleeaziz_ug), [LinkedIn](https://www.linkedin.com/in/ali-ziwa/)
 
 <!--
 **aliaziz/aliaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
